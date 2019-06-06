@@ -1,0 +1,38 @@
+#+TITLE: Math and Theory of Data Science: Linear Algebra Notes and Questions
+#+author: Bradley Strauss
+#+website: https://github.com/bradleyjs
+#+startup: showall
+
+* Introduction and Basic Linear Algebra
+** Strang, "The Functions of Deep Learning"
+*** Notes
+
+*** Questions
+
+1. How would you summarize the argument of "The Functions of Deep
+   Learning"?
+2. Does strang describe here supervised or unsupervised learning? Or both?
+   Which of the things he writes seem to you to apply to one or the other?
+3. What is the idea behind the distinction he makes between a function and
+   a '"rule"'? Why is this important?
+4. In the phrase "continuous piecewise linear function," what does each of
+   the terms mean individually? How does each one relate to the problem of
+   learning from examples?
+5. In $\mathbb{R}^3$, can you draw a picture of how the space is sliced by
+   $q$ hyperplanes into $r$ pieces when $q = 1$ and when $q = 2$? What
+   values of $r$ can you obtain for these cases?
+6. Why in the final paragraph of the essay does Strang write that
+   generalization is "magical"?
+
+*** Notation
+
+1. Vectors may be written for example as $\boldsymbol{v}$,
+   $\boldsymbol{p}$, or $\vec{p}$
+2. Matrices are typically written with capital letters: $A, B$
+3. $\mathbb{R}^n$ denotes the $n$-dimensional vector space over the field
+   of real numbers
+4. Functions can have one or more parameters, for example $F(x)$ and
+   $F(A_i, b_i, v)$
+5. The $\mathbf{max}$ function returns the greatest of its arguments
+6. Combinatorics
+7. Function composition $f(g(x))$
