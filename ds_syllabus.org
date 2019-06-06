@@ -1,4 +1,4 @@
-#+TITLE: Math and Theory of Data Science
+#+TITLE: Syllabus for Math and Theory of Data Science
 #+OPTIONS: ^:nil num:nil
 
 * Overview
