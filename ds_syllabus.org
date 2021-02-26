@@ -1,5 +1,6 @@
 #+TITLE: Syllabus for Math and Theory of Data Science
 #+OPTIONS: ^:nil num:nil
+#+startup: showall
 
 * Overview
 
@@ -26,16 +27,17 @@
       (from /Vector Calculus, Linear Algebra, and Differential Forms/)
 
 ** Linear Algebra
-   1. [[http://joshua.smcvt.edu/linearalgebra/][/Linear Algebra/]] (Hefferon)
+   1. [[http://joshua.smcvt.edu/linearalgebra/][Linear Algebra]] (Hefferon)
       - Complete text available free online. Recommended as supplement to
         /Linear Algebra and Learning from Data/.
-   2. [[http://matrixeditions.com/5thUnifiedApproach.html][/Vector Calculus, Linear Algebra, and Differential Forms/]] (Hubbard).  This is
-      an excellent book and I recommend it highly, but it's focus is very
-      much on pure mathematics. It has many beautiful proofs.
+   2. [[http://matrixeditions.com/5thUnifiedApproach.html][Vector Calculus, Linear Algebra, and Differential Forms]] (Hubbard).
+      This is an excellent book and I recommend it highly, but be aware
+      that its focus is theoretical math. It has many beautiful proofs.
       1. I currently have the 3rd edition, which can be found used pretty
          inexpensively. If you are using these notes, try to get the 2nd
          edition or newer.
-   3. [[http://vmls-book.stanford.edu/][/Introduction to Applied Linear Algebra: Vectors, matrices,and least squares/]] (Boyd)
+   3. /[[http://vmls-book.stanford.edu/][Introduction to Applied Linear Algebra: Vectors, matrices,and least
+      squares]]/ (Boyd)
       - Complete text available free online.
 
 
