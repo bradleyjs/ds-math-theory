@@ -1,0 +1,16 @@
+#+TITLE: Notes on Foundations of Data Science BootCamp, Simons Institute 2018
+
+* Background
+
+This workshop was held at the Simons Institute at UCB in the summer of 2018. Videos of the talks and their slides are available at: https://simons.berkeley.edu/workshops/schedule/6680. Intro page for the workshop: https://simons.berkeley.edu/programs/datascience2018
+
+* Notes on talks
+
+** Foundations of Data Science
+
+Kannan, Ravi. Based on his book with Blum and Hopcroft (Cambridge UP): https://www.amazon.com/Foundations-Data-Science-Avrim-Blum/dp/1108485065
+Pre-print pdf from Blum: https://ttic.uchicago.edu/~avrim/book.pdf
+
+*** https://simons.berkeley.edu/talks/intro-his-foundations-data-science-book-i
+
+    

@@ -36,3 +36,10 @@
 5. The $\mathbf{max}$ function returns the greatest of its arguments
 6. Combinatorics
 7. Function composition $f(g(x))$
+
+
+** Strang, /Linear Algebra for Everybody/
+
+   Link to video lectures: https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/
+
+   
